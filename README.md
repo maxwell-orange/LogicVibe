@@ -2,7 +2,7 @@
 
 > **LogicVibe: 一种基于模糊草图的神经符号化视觉编程方法**
 
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-Neuro--Symbolic-blueviolet) ![Status](https://img.shields.io/badge/Status-Prototype-green) ![Platform](https://img.shields.io/badge/Platform-Full--Stack-orange)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-Neuro--Symbolic-blueviolet) ![Status](https://img.shields.io/badge/Status-Prototype-green) ![Platform](https://img.shields.io/badge/Platform-Full--Stack-orange) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 
 ---
 
@@ -117,3 +117,9 @@ LogicVibe 旨在构建下一代 **"Neuro-Symbolic Vibe Coding"** 平台。我们
 ---
 
 > _LogicVibe —— 让编程回归逻辑，让 AI 成为真正的执行者，而非猜测者。_
+
+---
+
+## 协议 (License)
+
+本项目采用 [GNU Affero General Public License v3.0 (AGPL v3)](LICENSE) 协议开源。
